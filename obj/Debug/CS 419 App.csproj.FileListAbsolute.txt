@@ -1,0 +1,14 @@
+c:\users\jack\documents\visual studio 2013\Projects\CS 419 App\CS 419 App\bin\Debug\CS 419 App.dll
+c:\users\jack\documents\visual studio 2013\Projects\CS 419 App\CS 419 App\bin\Debug\CS 419 App.pdb
+c:\users\jack\documents\visual studio 2013\Projects\CS 419 App\CS 419 App\bin\Debug\CS 419 App.dll.mdb
+c:\users\jack\documents\visual studio 2013\Projects\CS 419 App\CS 419 App\bin\Debug\CS_419_App.CS_419_App.apk
+c:\users\jack\documents\visual studio 2013\Projects\CS 419 App\CS 419 App\bin\Debug\CS_419_App.CS_419_App-Signed.apk
+c:\users\jack\documents\visual studio 2013\Projects\CS 419 App\CS 419 App\obj\Debug\CS 419 App.csprojResolveAssemblyReference.cache
+c:\users\jack\documents\visual studio 2013\Projects\CS 419 App\CS 419 App\obj\Debug\CS 419 App.dll
+c:\users\jack\documents\visual studio 2013\Projects\CS 419 App\CS 419 App\obj\Debug\CS 419 App.pdb
+c:\users\jack\documents\visual studio 2013\Projects\CS 419 App\CS 419 App\obj\Debug\android\bin\CS_419_App.CS_419_App.apk
+c:\users\jack\documents\visual studio 2013\Projects\CS 419 App\CS 419 App\obj\Debug\res\layout\main.xml
+c:\users\jack\documents\visual studio 2013\Projects\CS 419 App\CS 419 App\obj\Debug\res\values\strings.xml
+c:\users\jack\documents\visual studio 2013\Projects\CS 419 App\CS 419 App\obj\Debug\res\drawable\icon.png
+c:\users\jack\documents\visual studio 2013\Projects\CS 419 App\CS 419 App\obj\Debug\R.cs.flag
+c:\users\jack\documents\visual studio 2013\Projects\CS 419 App\CS 419 App\obj\Debug\uploadflags.txt

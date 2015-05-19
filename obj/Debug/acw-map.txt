@@ -1,0 +1,4 @@
+CS_419_App.MainActivity, CS 419 App;md54df0a1a022f7dc756bf2b6185ad37893.MainActivity
+CS_419_App.MainActivity, CS 419 App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54df0a1a022f7dc756bf2b6185ad37893.MainActivity
+CS_419_App.MainActivity;md54df0a1a022f7dc756bf2b6185ad37893.MainActivity
+cs_419_app.MainActivity;md54df0a1a022f7dc756bf2b6185ad37893.MainActivity
