@@ -1,4 +1,20 @@
-CS_419_App.MainActivity, CS 419 App;md54df0a1a022f7dc756bf2b6185ad37893.MainActivity
-CS_419_App.MainActivity, CS 419 App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54df0a1a022f7dc756bf2b6185ad37893.MainActivity
-CS_419_App.MainActivity;md54df0a1a022f7dc756bf2b6185ad37893.MainActivity
-cs_419_app.MainActivity;md54df0a1a022f7dc756bf2b6185ad37893.MainActivity
+CS419App.MainActivity, CS419App;md5847dfcef6143537a37bcecb8ce5ab7d3.MainActivity
+CS419App.MainActivity, CS419App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5847dfcef6143537a37bcecb8ce5ab7d3.MainActivity
+CS419App.MainActivity;md5847dfcef6143537a37bcecb8ce5ab7d3.MainActivity
+cs419app.MainActivity;md5847dfcef6143537a37bcecb8ce5ab7d3.MainActivity
+CS419App.Settings, CS419App;md5847dfcef6143537a37bcecb8ce5ab7d3.Settings
+CS419App.Settings, CS419App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5847dfcef6143537a37bcecb8ce5ab7d3.Settings
+CS419App.Settings;md5847dfcef6143537a37bcecb8ce5ab7d3.Settings
+cs419app.Settings;md5847dfcef6143537a37bcecb8ce5ab7d3.Settings
+CS419App.Categories, CS419App;md5847dfcef6143537a37bcecb8ce5ab7d3.Categories
+CS419App.Categories, CS419App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5847dfcef6143537a37bcecb8ce5ab7d3.Categories
+CS419App.Categories;md5847dfcef6143537a37bcecb8ce5ab7d3.Categories
+cs419app.Categories;md5847dfcef6143537a37bcecb8ce5ab7d3.Categories
+CS419App.Companies, CS419App;md5847dfcef6143537a37bcecb8ce5ab7d3.Companies
+CS419App.Companies, CS419App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5847dfcef6143537a37bcecb8ce5ab7d3.Companies
+CS419App.Companies;md5847dfcef6143537a37bcecb8ce5ab7d3.Companies
+cs419app.Companies;md5847dfcef6143537a37bcecb8ce5ab7d3.Companies
+CS419App.Company, CS419App;md5847dfcef6143537a37bcecb8ce5ab7d3.Company
+CS419App.Company, CS419App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5847dfcef6143537a37bcecb8ce5ab7d3.Company
+CS419App.Company;md5847dfcef6143537a37bcecb8ce5ab7d3.Company
+cs419app.Company;md5847dfcef6143537a37bcecb8ce5ab7d3.Company

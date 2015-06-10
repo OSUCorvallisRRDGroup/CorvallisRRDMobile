@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("CS_419_App.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("CS419App.Resource", IsApplication=true)]
 
-namespace CS_419_App
+namespace CS419App
 {
 	
 	
@@ -60,20 +60,41 @@ namespace CS_419_App
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050009
+			public const int allaccepted = 2131034121;
+			
+			// aapt resource value: 0x7f05000b
+			public const int button1 = 2131034123;
+			
+			// aapt resource value: 0x7f050006
+			public const int categories = 2131034118;
+			
 			// aapt resource value: 0x7f050003
-			public const int acceptedItems = 2131034115;
+			public const int companyAddress = 2131034115;
+			
+			// aapt resource value: 0x7f050005
+			public const int companyHours = 2131034117;
 			
 			// aapt resource value: 0x7f050000
-			public const int categories = 2131034112;
-			
-			// aapt resource value: 0x7f050004
-			public const int curbsideContainers = 2131034116;
+			public const int companyMap = 2131034112;
 			
 			// aapt resource value: 0x7f050001
-			public const int settings = 2131034113;
+			public const int companyName = 2131034113;
+			
+			// aapt resource value: 0x7f050004
+			public const int companyPhone = 2131034116;
+			
+			// aapt resource value: 0x7f05000a
+			public const int curbside = 2131034122;
 			
 			// aapt resource value: 0x7f050002
-			public const int textView1 = 2131034114;
+			public const int goToSite = 2131034114;
+			
+			// aapt resource value: 0x7f050007
+			public const int settings = 2131034119;
+			
+			// aapt resource value: 0x7f050008
+			public const int textView1 = 2131034120;
 			
 			static Id()
 			{
@@ -89,7 +110,19 @@ namespace CS_419_App
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Main = 2130903040;
+			public const int Categories = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int Companies = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int Company = 2130903042;
+			
+			// aapt resource value: 0x7f030003
+			public const int Main = 2130903043;
+			
+			// aapt resource value: 0x7f030004
+			public const int Settings = 2130903044;
 			
 			static Layout()
 			{
@@ -105,10 +138,10 @@ namespace CS_419_App
 		{
 			
 			// aapt resource value: 0x7f040001
-			public const int ApplicationName = 2130968577;
+			public const int app_name = 2130968577;
 			
 			// aapt resource value: 0x7f040000
-			public const int Hello = 2130968576;
+			public const int hello = 2130968576;
 			
 			static String()
 			{

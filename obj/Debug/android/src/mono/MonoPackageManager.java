@@ -79,9 +79,9 @@ public class MonoPackageManager {
 
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
-		"CS 419 App.dll",
+		"CS419App.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_10";
+	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_19";
 }
