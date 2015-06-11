@@ -15,7 +15,7 @@ using System.Net;
 
 namespace CS419App
 {
-	[Activity (Label = "Company")]			
+	[Activity (Label = "Company", Icon = "@drawable/icon")]			
 	public class Company : Activity
 	{
 		protected override void OnCreate (Bundle bundle)
@@ -26,7 +26,8 @@ namespace CS419App
 
 			//fields to fill in
 			ImageView companyMap = FindViewById<ImageView> (Resource.Id.companyMap);	
-			var imageBitmap = GetImageBitmapFromUrl("https://maps.googleapis.com/maps/api/staticmap?center=Oregon+State+University,Corvallis,OR&zoom=13&size=600x300&maptype=roadmap");
+			string address = "";
+			var imageBitmap = GetImageBitmapFromUrl("https://maps.googleapis.com/maps/api/staticmap?center=" + address + "&zoom=13&size=600x300&maptype=roadmap");
 			companyMap.SetImageBitmap(imageBitmap);
 
 			TextView companyName = FindViewById<TextView> (Resource.Id.companyName);

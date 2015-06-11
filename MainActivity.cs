@@ -9,7 +9,7 @@ using Android.OS;
 
 namespace CS419App
 {
-	[Activity (Label = "Reuse and Recycle App", MainLauncher = true, Icon = "@drawable/icon")]
+	[Activity (Label = "Corvallis Reuse and Repair Directory", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
 		protected override void OnCreate (Bundle bundle)

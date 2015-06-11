@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace CS419App
 {
-	[Activity (Label = "Companies")]			
+	[Activity (Label = "Companies", Icon = "@drawable/icon")]			
 	public class Companies : ListActivity
 	{
 		string[] items;

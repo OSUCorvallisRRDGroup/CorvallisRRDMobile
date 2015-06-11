@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace CS419App
 {
-	[Activity (Label = "Categories")]			
+	[Activity (Label = "Categories", Icon = "@drawable/icon")]			
 	public class Categories : ListActivity
 	{
 		string[] items;
